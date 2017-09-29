@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<servlets>
+
+
+	<!--sample start -->
+	<servlet class="org.maptalks.sample.servlet.AddSampleServlet">
+		<urlpattern value="/sample/addSample"></urlpattern>
+	</servlet>
+	<!--sample end -->
+	
+	
+	
+</servlets>
