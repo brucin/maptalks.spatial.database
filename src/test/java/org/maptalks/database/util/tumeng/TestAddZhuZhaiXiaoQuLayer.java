@@ -21,7 +21,7 @@ public class TestAddZhuZhaiXiaoQuLayer {
 
     @Before
     public void init() {
-        mapDatabase = new MapDatabase("121.40.37.230", 8090, "maptalks_baoshan");
+        mapDatabase = new MapDatabase("121.40.37.230", 8090, "MAPTALKS_ULA");
     }
 
     @Test
@@ -32,17 +32,17 @@ public class TestAddZhuZhaiXiaoQuLayer {
 
     private void addZhuZhaiXiaoQu()  throws IOException, RestException,
             InvalidLayerException{
-        String layerId = "shape_tm_zhuzhaixq";
+        String layerId = "shape_tum_zhuzhaixq";
         this.removeLayer(mapDatabase, layerId);
         Layer layer = new Layer();
         layer.setId(layerId);
         layer.setName("住宅小区");
         List<LayerField> list = new ArrayList<LayerField>();
-        list.add(this.needString("poi_name", 300));
-        list.add(this.needString("poi_type", 30));
-        list.add(this.needString("poi_code", 30));
+        list.add(this.needString("name", 300));
+        list.add(this.needString("type", 30));
+        list.add(this.needString("code", 30));
         list.add(this.needString("address", 300));
-        list.add(this.needString("telephone", 30));
+        list.add(this.needString("telephone", 60));
         layer.setFields(list);
         mapDatabase.addLayer(layer);
     }

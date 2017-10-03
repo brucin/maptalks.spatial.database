@@ -21,7 +21,7 @@ public class TestAddSpatialDatabase {
 
     @Before
     public void init() {
-        mapDatabase = new MapDatabase("121.40.37.230", 8090, "maptalks_baoshan");
+        mapDatabase = new MapDatabase("121.40.37.230", 8090, "MAPTALKS_ULA");
     }
 
     @Test
@@ -37,7 +37,7 @@ public class TestAddSpatialDatabase {
          * 查看空间库信息
          */
         DBInfo info = mapDatabase.getDatabaseInfo();
-        Assert.assertTrue(info.getName().equals("maptalks_baoshan"));
+        Assert.assertTrue(info.getName().equals("MAPTALKS_ULA"));
     }
 
 }

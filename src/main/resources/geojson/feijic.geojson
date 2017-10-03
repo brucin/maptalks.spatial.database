@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "上海虹桥国际机场", "Ctype": "飞机场", "Ntype": "150104", "Address": "迎宾一路７００", "Telephone": "021-62688918|62688899" }, "geometry": { "type": "Point", "coordinates": [ 121.346217055277776, 31.194796874166666 ] } },
+{ "type": "Feature", "properties": { "Name": "上海浦东国际机场", "Ctype": "飞机场", "Ntype": "150104", "Address": "机场镇纬一路１００号", "Telephone": "021-58938800|96081388" }, "geometry": { "type": "Point", "coordinates": [ 121.802553333333321, 31.149624166666666 ] } }
+]
+}

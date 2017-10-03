@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "青浦区", "Ctype": "区县级地名", "Ntype": "190105", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 121.1241775, 31.150681111111112 ] } },
+{ "type": "Feature", "properties": { "Name": "松江区", "Ctype": "区县级地名", "Ntype": "190105", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 121.227746944444448, 31.032242777777775 ] } },
+{ "type": "Feature", "properties": { "Name": "金山区", "Ctype": "区县级地名", "Ntype": "190105", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 121.342455260833333, 30.741797902222224 ] } },
+{ "type": "Feature", "properties": { "Name": "嘉定区", "Ctype": "区县级地名", "Ntype": "190105", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 121.265373888888888, 31.375868611111109 ] } },
+{ "type": "Feature", "properties": { "Name": "奉贤区", "Ctype": "区县级地名", "Ntype": "190105", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 121.474054802777772, 30.917766413055553 ] } },
+{ "type": "Feature", "properties": { "Name": "闵行区", "Ctype": "区县级地名", "Ntype": "190105", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 121.380831, 31.1129 ] } },
+{ "type": "Feature", "properties": { "Name": "长宁区", "Ctype": "区县级地名", "Ntype": "190105", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 121.424621958333333, 31.220371942777778 ] } },
+{ "type": "Feature", "properties": { "Name": "黄浦区", "Ctype": "区县级地名", "Ntype": "190105", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 121.484427777777782, 31.231738888888888 ] } },
+{ "type": "Feature", "properties": { "Name": "静安区", "Ctype": "区县级地名", "Ntype": "190105", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 121.447453, 31.227906 ] } },
+{ "type": "Feature", "properties": { "Name": "徐汇区", "Ctype": "区县级地名", "Ntype": "190105", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 121.436128, 31.188464 ] } },
+{ "type": "Feature", "properties": { "Name": "普陀区", "Ctype": "区县级地名", "Ntype": "190105", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 121.395514, 31.249603 ] } },
+{ "type": "Feature", "properties": { "Name": "宝山区", "Ctype": "区县级地名", "Ntype": "190105", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 121.48961222222222, 31.405456666666666 ] } },
+{ "type": "Feature", "properties": { "Name": "崇明区", "Ctype": "区县级地名", "Ntype": "190105", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 121.397421111111115, 31.6237275 ] } },
+{ "type": "Feature", "properties": { "Name": "浦东新区", "Ctype": "区县级地名", "Ntype": "190105", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 121.544379166666673, 31.221516944444442 ] } },
+{ "type": "Feature", "properties": { "Name": "虹口区", "Ctype": "区县级地名", "Ntype": "190105", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 121.504524, 31.264747 ] } },
+{ "type": "Feature", "properties": { "Name": "杨浦区", "Ctype": "区县级地名", "Ntype": "190105", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 121.525726666666657, 31.259821944444443 ] } }
+]
+}
