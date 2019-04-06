@@ -1,0 +1,30 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "南月圩", "Ctype": "岛屿", "Ntype": "190202", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 120.919036729722222, 31.014402398055555 ] } },
+{ "type": "Feature", "properties": { "Name": "张庙尖", "Ctype": "岛屿", "Ntype": "190202", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 121.039705132500004, 30.977650824722222 ] } },
+{ "type": "Feature", "properties": { "Name": "小淀山", "Ctype": "山", "Ntype": "190203", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 121.028021918333337, 31.103206651388888 ] } },
+{ "type": "Feature", "properties": { "Name": "钟贾山", "Ctype": "山", "Ntype": "190203", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 121.16080268, 31.081191406388889 ] } },
+{ "type": "Feature", "properties": { "Name": "小昆山", "Ctype": "山", "Ntype": "190203", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 121.134936523333337, 31.037819553055556 ] } },
+{ "type": "Feature", "properties": { "Name": "横山", "Ctype": "山", "Ntype": "190203", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 121.146489257777787, 31.055933973611111 ] } },
+{ "type": "Feature", "properties": { "Name": "薛山", "Ctype": "山", "Ntype": "190203", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 121.201001519166667, 31.105285101944443 ] } },
+{ "type": "Feature", "properties": { "Name": "西佘山", "Ctype": "山", "Ntype": "190203", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 121.191842719166658, 31.094270019444444 ] } },
+{ "type": "Feature", "properties": { "Name": "凤凰山", "Ctype": "山", "Ntype": "190203", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 121.20844590916667, 31.107268608888887 ] } },
+{ "type": "Feature", "properties": { "Name": "北干山", "Ctype": "山", "Ntype": "190203", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 121.198245171388891, 31.137759331666668 ] } },
+{ "type": "Feature", "properties": { "Name": "东佘山", "Ctype": "山", "Ntype": "190203", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 121.19848036027777, 31.096363661111113 ] } },
+{ "type": "Feature", "properties": { "Name": "秦望山", "Ctype": "山", "Ntype": "190203", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 121.263039279444442, 30.790774739722224 ] } },
+{ "type": "Feature", "properties": { "Name": "查山", "Ctype": "山", "Ntype": "190203", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 121.314134385833327, 30.754703776111111 ] } },
+{ "type": "Feature", "properties": { "Name": "浮山岛", "Ctype": "岛屿", "Ntype": "190202", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 121.4272479925, 30.681258951944447 ] } },
+{ "type": "Feature", "properties": { "Name": "大金山", "Ctype": "岛屿", "Ntype": "190202", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 121.425642089722231, 30.6894525825 ] } },
+{ "type": "Feature", "properties": { "Name": "小金山岛", "Ctype": "岛屿", "Ntype": "190202", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 121.407348904166668, 30.704258355 ] } },
+{ "type": "Feature", "properties": { "Name": "杭州湾", "Ctype": "海湾海峡", "Ntype": "190201", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 121.698258055555556, 30.83862527777778 ] } },
+{ "type": "Feature", "properties": { "Name": "长兴岛", "Ctype": "岛屿", "Ntype": "190202", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 121.681791449722226, 31.40502143 ] } },
+{ "type": "Feature", "properties": { "Name": "七滧港", "Ctype": "海湾海峡", "Ntype": "190201", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 121.734304050833344, 31.494706382777778 ] } },
+{ "type": "Feature", "properties": { "Name": "杭州湾", "Ctype": "海湾海峡", "Ntype": "190201", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 121.850000542500013, 30.842873535277779 ] } },
+{ "type": "Feature", "properties": { "Name": "圆沙港", "Ctype": "海湾海峡", "Ntype": "190201", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 121.758627929722209, 31.325754665833333 ] } },
+{ "type": "Feature", "properties": { "Name": "横沙岛", "Ctype": "岛屿", "Ntype": "190202", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 121.855059136388888, 31.294653862777778 ] } },
+{ "type": "Feature", "properties": { "Name": "东海", "Ctype": "海湾海峡", "Ntype": "190201", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 121.986917588888886, 30.897743869444444 ] } },
+{ "type": "Feature", "properties": { "Name": "佘山", "Ctype": "岛屿", "Ntype": "190202", "Address": null, "Telephone": null }, "geometry": { "type": "Point", "coordinates": [ 122.244470486111112, 31.419545355833332 ] } }
+]
+}
